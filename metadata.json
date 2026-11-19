@@ -1,0 +1,6 @@
+{
+  "name": "NATSU Manual",
+  "description": "Manual interactivo de identidad visual para NATSU AUTO PARTS (Santa Cruz de la Sierra, Bolivia) con inspector de logotipo, paleta copiable, comparador de fachada y galería con zoom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

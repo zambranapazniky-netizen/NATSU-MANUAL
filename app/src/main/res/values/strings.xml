@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">NATSU Manual</string>
+
+    <!-- Navegación y Cabecera -->
+    <string name="nav_block_1">Fundamentos</string>
+    <string name="nav_block_2">Tipografía</string>
+    <string name="nav_block_3">Papelería</string>
+    <string name="nav_block_4">Arquitectura</string>
+    <string name="nav_block_5">Campañas</string>
+
+    <string name="cd_toggle_theme">Cambiar entre modo oscuro JDM y modo claro editorial</string>
+    <string name="cd_open_gallery">Abrir galería curada de mockups</string>
+    <string name="cd_natsu_logo">Logotipo oficial NATSU AUTO PARTS</string>
+    <string name="cd_close_modal">Cerrar visor</string>
+    <string name="cd_reset_zoom">Restablecer zoom</string>
+    <string name="cd_copy_code">Copiar código al portapapeles</string>
+    <string name="cd_compare_slider">Deslizador comparador antes y después de la fachada</string>
+    <string name="cd_open_zoom">Abrir imagen en pantalla completa con zoom</string>
+
+    <!-- Etiquetas Generales -->
+    <string name="brand_kanji">自動車部品</string>
+    <string name="brand_phonetic">Jidōsha buhin · Autopartes</string>
+    <string name="brand_territory">Santa Cruz de la Sierra, Bolivia · Edición 2026</string>
+    <string name="label_mode_dark">Modo Oscuro JDM</string>
+    <string name="label_mode_light">Modo Claro Suizo</string>
+    <string name="label_gallery_title">Galería Curada NATSU</string>
+    <string name="label_gallery_subtitle">Piezas oficiales en paleta Rojo Racing, Antracita y Blanco</string>
+    <string name="label_filter_all">Todo</string>
+    <string name="label_zoom_hint">Pellizca o toca dos veces para hacer zoom</string>
+    <string name="label_copied_format">Copiado: %1$s</string>
+
+    <!-- Inspector de Logotipo -->
+    <string name="inspector_title">Inspector de Logotipo</string>
+    <string name="inspector_subtitle">Evalúa contraste, retícula constructiva (22°) y área de seguridad modular (1X)</string>
+    <string name="inspector_toggle_grid">Retícula 22°</string>
+    <string name="inspector_toggle_safe">Área 1X</string>
+    <string name="inspector_toggle_kanji">Kanji 自動車部品</string>
+    <string name="inspector_min_print">Mín. Impresión: 25 mm</string>
+    <string name="inspector_min_digital">Mín. Digital: 100 px</string>
+    <string name="inspector_bg_red">Rojo Racing</string>
+    <string name="inspector_bg_anthracite">Antracita</string>
+    <string name="inspector_bg_white">Blanco Puro</string>
+    <string name="inspector_bg_mono">Monocromo</string>
+
+    <!-- Paleta Interactiva -->
+    <string name="palette_title">Sistema Cromático Oficial</string>
+    <string name="palette_subtitle">Toca cualquier código HEX, RGB o CMYK para copiarlo al instante</string>
+
+    <!-- Comparador Antes / Después -->
+    <string name="compare_title">Comparador Fachada Real — Santa Cruz</string>
+    <string name="compare_subtitle">Desliza horizontalmente para contrastar el estado original con la fachada JDM iluminada</string>
+    <string name="compare_before">ANTES · Estado Original</string>
+    <string name="compare_after">DESPUÉS · Propuesta NATSU</string>
+</resources>
